@@ -1,4 +1,1 @@
-Hello Flathub Reviewers!
-
-org.savebutton.SaveButton lives here.
 
